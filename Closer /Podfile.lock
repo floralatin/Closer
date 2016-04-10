@@ -1,0 +1,22 @@
+PODS:
+  - AVOSCloud (3.2.7)
+  - EaseMobSDKFull (2.2.2)
+
+DEPENDENCIES:
+  - AVOSCloud
+  - EaseMobSDKFull (from `https://github.com/easemob/sdk-ios-cocoapods-integration.git`)
+
+EXTERNAL SOURCES:
+  EaseMobSDKFull:
+    :git: https://github.com/easemob/sdk-ios-cocoapods-integration.git
+
+CHECKOUT OPTIONS:
+  EaseMobSDKFull:
+    :commit: 71ab7e03d5435728b926824b3c206c4375d2f951
+    :git: https://github.com/easemob/sdk-ios-cocoapods-integration.git
+
+SPEC CHECKSUMS:
+  AVOSCloud: 957d1508104d7c8ed501df9d9b734d7a98c2e047
+  EaseMobSDKFull: 03aea6ee25d94748474822d7a5a59afed68ec1ad
+
+COCOAPODS: 0.39.0
